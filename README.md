@@ -1,2 +1,2 @@
-# Rusangu Cafeteria
- Rusangu cafeteria Management
+# Rusangu University Cafeteria Management
+ Automated Management System
